@@ -1,2 +1,5 @@
-# my-privacy-policy
+# 隐私政策
 N8N-Google 应用隐私声明
+本应用（**n8n_Gmail**）仅用于个人自动化目的，不会收集、存储或分享任何用户数据。
+Gmail 权限仅用于读取或发送邮件，所有操作均在用户授权后本地执行。
+如有疑问，请联系：jx.huang@arkspace.com.hk
